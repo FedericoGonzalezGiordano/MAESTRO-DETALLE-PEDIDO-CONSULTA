@@ -1,0 +1,10 @@
+C:\Users\Federico gonzalez\Desktop\TIpoParcial2\TIpoParcial2\bin\Debug\TIpoParcial2.exe.config
+C:\Users\Federico gonzalez\Desktop\TIpoParcial2\TIpoParcial2\bin\Debug\TIpoParcial2.exe
+C:\Users\Federico gonzalez\Desktop\TIpoParcial2\TIpoParcial2\bin\Debug\TIpoParcial2.pdb
+C:\Users\Federico gonzalez\Desktop\TIpoParcial2\TIpoParcial2\obj\Debug\TIpoParcial2.csproj.AssemblyReference.cache
+C:\Users\Federico gonzalez\Desktop\TIpoParcial2\TIpoParcial2\obj\Debug\TIpoParcial2.FrmConsulta.resources
+C:\Users\Federico gonzalez\Desktop\TIpoParcial2\TIpoParcial2\obj\Debug\TIpoParcial2.Properties.Resources.resources
+C:\Users\Federico gonzalez\Desktop\TIpoParcial2\TIpoParcial2\obj\Debug\TIpoParcial2.csproj.GenerateResource.cache
+C:\Users\Federico gonzalez\Desktop\TIpoParcial2\TIpoParcial2\obj\Debug\TIpoParcial2.csproj.CoreCompileInputs.cache
+C:\Users\Federico gonzalez\Desktop\TIpoParcial2\TIpoParcial2\obj\Debug\TIpoParcial2.exe
+C:\Users\Federico gonzalez\Desktop\TIpoParcial2\TIpoParcial2\obj\Debug\TIpoParcial2.pdb
